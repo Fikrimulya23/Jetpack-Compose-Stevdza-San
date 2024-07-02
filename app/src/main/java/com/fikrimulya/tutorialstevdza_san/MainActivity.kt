@@ -7,7 +7,8 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
-import com.fikrimulya.tutorialstevdza_san.tutorial.TextFieldExample
+import com.fikrimulya.tutorialstevdza_san.tutorial.GradientButton
+import com.fikrimulya.tutorialstevdza_san.tutorial.PasswordTextField
 import com.fikrimulya.tutorialstevdza_san.ui.theme.TutorialStevdzaSanTheme
 
 class MainActivity : ComponentActivity() {
@@ -20,7 +21,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    TextFieldExample()
+                    GradientButton()
                 }
             }
         }
