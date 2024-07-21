@@ -8,6 +8,7 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
 import com.fikrimulya.tutorialstevdza_san.tutorial.GradientButton
+import com.fikrimulya.tutorialstevdza_san.tutorial.LazyColumn.Views.LazyColumnExample
 import com.fikrimulya.tutorialstevdza_san.tutorial.PasswordTextField
 import com.fikrimulya.tutorialstevdza_san.ui.theme.TutorialStevdzaSanTheme
 
@@ -21,7 +22,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    GradientButton()
+                    LazyColumnExample()
                 }
             }
         }

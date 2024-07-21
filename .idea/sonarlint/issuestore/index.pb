@@ -107,3 +107,9 @@ G.idea/sonarlint/issuestore/6/7/67b70d6207dfc02eda4c7e3fed5f295cf9125b12,2\b\2b
 Q.idea/sonarlint/securityhotspotstore/d/d/ddc0af89697ebfbc39d910fb87e361949dd4f62d,a\5\a5bbb5bb0eea54f3d0deb930ba47b3e41b12a916
 Å
 Q.idea/sonarlint/securityhotspotstore/1/c/1cd8c6ecd299d784e92c014efb56b783dc3dec48,3\2\3236b9a1e0b7c8a9662f4669d337fcb86e9373a1
+è
+_app/src/main/java/com/fikrimulya/tutorialstevdza_san/tutorial/LazyColumn/Views/12.LazyColumn.kt,d\d\dd2159358a2e554719e9661edd71a8146b35f7f7
+ù
+mapp/src/main/java/com/fikrimulya/tutorialstevdza_san/tutorial/LazyColumn/Repositories/LazyColumnRepository.kt,1\1\11553c831c9c9adee8e5554768d48a51b4dd716b
+í
+bapp/src/main/java/com/fikrimulya/tutorialstevdza_san/tutorial/LazyColumn/Models/LazyColumnModel.kt,4\9\495ac173e24a47d2626b70f6d11364d64918df84
